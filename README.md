@@ -1,38 +1,47 @@
-# 👋 Hi, I'm Pritam Makwana
+# 👋 Hi there! I'm **Pritam Makwana**
 
 💻 **Laravel & PHP Developer**  
-🚀 Building modern web applications and APIs  
-🌍 Passionate about clean code, backend logic, and performance
+🚀 Passionate about building modern, secure, and scalable web applications  
+🌍 Writing clean code, solving problems, and learning something new every day  
 
 ---
 
-### 🧠 About Me
-- 🔭 I’m currently working on personal and freelance Laravel projects  
-- 🌱 Learning Vue.js & exploring full-stack development  
-- 👯 Looking for remote opportunities with Indian or US companies  
-- ⚡ Fun fact: I love solving bugs like puzzles 🧩  
+## 🧠 About Me
+- 🔭 Currently working on **personal & freelance Laravel projects**
+- 🌱 Exploring **Vue.js** and the **full-stack development** world
+- 👯 Open to **remote opportunities** (India or worldwide)
+- ⚡ Fun fact: I enjoy debugging like solving puzzles 🧩  
 
 ---
 
-### 🛠️ Tech Stack
-- **Backend:** PHP, Laravel  
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- **Database:** MySQL  
-- **Tools:** Git, GitHub, VS Code, Postman  
+## 🛠️ Tech Stack
+**Backend:** PHP • Laravel  
+**Frontend:** HTML • CSS • JavaScript • Bootstrap  
+**Database:** MySQL  
+**Tools & IDEs:** Git • GitHub • VS Code • Postman  
 
 ---
 
-### 🌐 My Portfolio
-👉 [View Portfolio](https://pritam.page.gd)
-👉 [GitHub Portfolio](https://pritammakwana.github.io/)
+## 🌐 My Work
+🎨 **Portfolio Websites:**  
+- 🔗 [Live Portfolio](https://pritam.page.gd)  
+- 🔗 [GitHub Portfolio](https://pritammakwana.github.io/)  
 
 ---
 
-### 📫 Contact Me
-- 📧 Email: pritammakwana17561@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/pritammakwana](https://linkedin.com/in/pritammakwana)
+## 📫 Connect With Me
+- 📧 **Email:** [pritammakwana17561@gmail.com](mailto:pritammakwana17561@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/pritammakwana](https://linkedin.com/in/pritammakwana)  
+- 🧰 **GitHub:** [github.com/PritamMakwana](https://github.com/PritamMakwana)  
 
 ---
 
-⭐ **Thanks for visiting!**  
-If you like my work, consider following me — it motivates me to build more 😊
+## 📊 GitHub Stats
+![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=PritamMakwana&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PritamMakwana&layout=compact&theme=tokyonight)  
+![Visitor Count](https://komarev.com/ghpvc/?username=PritamMakwana&color=blue)  
+
+---
+
+⭐ **Thanks for stopping by!**  
+If you find my work interesting, consider **following** me — your support keeps me coding with a smile 😊
