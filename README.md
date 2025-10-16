@@ -24,7 +24,7 @@
 
 ## 🌐 My Work
 🎨 **Portfolio Websites:**  
-- 🔗 [Live Portfolio](https://pritam.page.gd)  
+- 🔗 [Live Portfolio](https://pritam.xo.je)  
 - 🔗 [GitHub Portfolio](https://pritammakwana.github.io/)  
 
 ---
