@@ -16,7 +16,7 @@
 
 ### 🛠️ Tech Stack
 - **Backend:** PHP, Laravel  
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Vue.js (learning)  
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
 - **Database:** MySQL  
 - **Tools:** Git, GitHub, VS Code, Postman  
 
