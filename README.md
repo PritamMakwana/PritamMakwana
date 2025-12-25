@@ -22,9 +22,7 @@
 
 ## 🌐 My Work
 🎨 **Portfolio Websites:**  
-- 🔗 [Live Portfolio](https://pritam.xo.je)  
-- 🔗 [GitHub Portfolio](https://pritammakwana.github.io/)  
-
+- 🔗 [Portfolio](https://pritammakwana.github.io/)  
 ---
 
 ## 📫 Connect With Me
