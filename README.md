@@ -34,10 +34,19 @@
 
 ## 📊 GitHub Stats
 ![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=PritamMakwana&show_icons=true&theme=tokyonight)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PritamMakwana&layout=compact&theme=tokyonight)  
-![Visitor Count](https://komarev.com/ghpvc/?username=PritamMakwana&color=blue)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PritamMakwana&theme=tokyonight)  
+
+![Visitor Count](https://komarev.com/ghpvc/?username=PritamMakwana&color=blue)
 
 ---
+
+## 🛠 Tech Stack
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ⭐ **Thanks for stopping by!**  
 If you find my work interesting, consider **following** me — your support keeps me coding with a smile 😊
