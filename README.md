@@ -13,10 +13,10 @@
 ---
 
 ## 🛠️ Tech Stack
-**Backend:** PHP • Laravel  
-**Frontend:** HTML • CSS • JavaScript • Bootstrap  
+**Backend:** PHP • Laravel • Livewire
+**Frontend:** HTML • CSS • JavaScript • Bootstrap • TailwindCSS • ReactJS • Vue JS
 **Database:** MySQL  
-**Tools & IDEs:** Git • GitHub • VS Code • Postman  
+**Tools & IDEs:** Git • GitHub • VS Code • Postman • REST APIs (JSON) • OOP • PayPal • Stripe • Razorpay
 
 ---
 
@@ -42,11 +42,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=PritamMakwana&color=blue)
 
 ---
-
-## 🛠 Tech Stack
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ⭐ **Thanks for stopping by!**  
 If you find my work interesting, consider **following** me — your support keeps me coding with a smile 😊
