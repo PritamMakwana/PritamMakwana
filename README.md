@@ -7,11 +7,9 @@
 ---
 
 ## 🧠 About Me
-- 🔭 Currently working on **personal & freelance Laravel projects**
-- 🌱 Exploring **Vue.js** and the **full-stack development** world
+- 🔭 Currently working on **personal & freelance Laravel/PHP projects**
 - 👯 Open to **remote opportunities** (India or worldwide)
 - ⚡ Fun fact: I enjoy debugging like solving puzzles 🧩  
-
 ---
 
 ## 🛠️ Tech Stack
